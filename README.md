@@ -1,0 +1,1 @@
+This is simple Couter App with vanilla Redux
